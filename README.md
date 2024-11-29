@@ -2,6 +2,7 @@
 
 <!--
 **mapellispotted/mapellispotted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 
 - 👋 Siamo la *redazione* di @mapellispotted
 - 👀 Siamo interessati a ridare vita al blog e ai profili social della scuola
